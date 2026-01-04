@@ -11,8 +11,8 @@
 | 이름     | 역할       | GitHub 프로필 |
 |----------|------------|----------------|
 | 허준서   | 팀장       | [Junseo0324](https://github.com/Junseo0324) |
-| 임채률   | 팀원       | - |
-| 임원섭   | 팀원       | - |
+| 임채률   | 팀원       | [Chaechae0817](https://github.com/chaechae0817) |
+| 임원섭   | 팀원       | [limwonseob](https://github.com/limwonseob) |
 <br>
 
 ## 기획 의도
